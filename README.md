@@ -48,10 +48,10 @@
 
 ### 📂 Featured Projects
 <p align="center">
- - 📊 [SK Mobile Sales Dashboard](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
-- 🏦 [Bank Loan Analysis (SQL + Power BI)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
-- 🛍️ [Retail Analysis (Minor Project - Sem 7)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
-- 👩‍💼 [HR Analytics Dashboard](https://github.com/pranav444444/TASK-6A-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
+ - 📊 [SK Mobile Sales Dashboard](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP) <br> 
+- 🏦 [Bank Loan Analysis (SQL + Power BI)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)<br>  
+- 🛍️ [Retail Analysis (Minor Project - Sem 7)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis) <br> 
+- 👩‍💼 [HR Analytics Dashboard](https://github.com/pranav444444/TASK-6A-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP) <br> 
 </p>
 
 ---
