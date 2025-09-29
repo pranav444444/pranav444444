@@ -47,8 +47,7 @@
 ---
 
 ### 📂 Featured Projects
-<p align="center">
- ## 📂 Featured Projects  
+<p align="center"> 
 
 - 📊 [![SK Mobile Sales Dashboard](https://img.shields.io/badge/Repo-SK%20Mobile%20Sales%20Dashboard-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 
