@@ -1,14 +1,19 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-156f5e10-389c-4d2e-96a3-3b1fcbccf9db.gif" width="100%" alt="welcome banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Pranav Patel</h1>
 <h3 align="center">🚀 A Passionate Data Analyst from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" alt="Typing Animation"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/pranav-patel-www22447630a" target="blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
@@ -23,8 +28,7 @@
 ---
 
 ### 🛠️ Core Data Analyst Toolkit:
-<p align="left"> 
-  <!-- Programming -->
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
@@ -39,10 +43,22 @@
 
 ---
 
+### 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/pranav444444/Retail-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav444444&repo=Retail-Analytics-Dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/pranav444444/Credit-Card-Customer-Report">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav444444&repo=Credit-Card-Customer-Report&theme=radical" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav444444&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav444444&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav444444&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav444444&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -60,5 +76,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-9e6d3f54-1c5f-44b1-8901-25d283a5a3e1.gif" width="100%"/>
+</p>
 
 ⭐️ From [Pranav Patel](https://github.com/pranav444444)
