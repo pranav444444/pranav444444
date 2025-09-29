@@ -17,12 +17,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PowerBI-Light.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Excel-Light.svg" alt="excel" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">My GitHub Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav444444&show_icons=true&locale=en&theme=radical" alt="pranav444444 github stats" />
