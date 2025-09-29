@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" alt="Typing Animation"/>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=pranav444444&label=Profile%20Views&color=0e75b6&style=flat" alt="pranav444444 profile views" /> 
+</p>
+
 ---
 
 ### 🌐 Connect with me:
