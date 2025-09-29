@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Data Analyst from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights;Lifelong+Learner+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" />
 </p>
 
 ---
