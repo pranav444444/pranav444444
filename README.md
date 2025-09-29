@@ -23,6 +23,9 @@
 <a href="https://github.com/pranav444444" target="blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github"/>
 </a>
+  <a href="https://www.hackerrank.com/profile/pranavjmp444" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -45,12 +48,10 @@
 
 ### 📂 Featured Projects
 <p align="center">
-  <a href="https://github.com/pranav444444/Retail-Analytics-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav444444&repo=Retail-Analytics-Dashboard&theme=radical" />
-  </a>
-  <a href="https://github.com/pranav444444/Credit-Card-Customer-Report">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav444444&repo=Credit-Card-Customer-Report&theme=radical" />
-  </a>
+ - 📊 [SK Mobile Sales Dashboard](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
+- 🏦 [Bank Loan Analysis (SQL + Power BI)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
+- 🛍️ [Retail Analysis (Minor Project - Sem 7)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
+- 👩‍💼 [HR Analytics Dashboard](https://github.com/pranav444444/TASK-6A-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 </p>
 
 ---
