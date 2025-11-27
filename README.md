@@ -55,9 +55,9 @@
 
 - 📊 [![SK Mobile Sales Dashboard](https://img.shields.io/badge/Repo-SK%20Mobile%20Sales%20Dashboard-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 
-- 🏦 [![Bank Loan Analysis](https://img.shields.io/badge/Repo-Bank%20Loan%20Analysis%20(SQL+Power%20BI)-purple?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
+- 🏦 [![Bank Loan Performance Analysis And Risk Assessment](https://img.shields.io/badge/Repo-Bank%20Loan%20Analysis%20(SQL+Power%20BI)-purple?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
 
-- 🛍️ [![Retail Analysis (Sem 7 Project)](https://img.shields.io/badge/Repo-Retail%20Analysis-orange?style=for-the-badge&logo=anaconda&logoColor=white)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
+- 🛍️ [![Customer Preference And Trend Analytics For Retail Sector (Sem 7 Project)](https://img.shields.io/badge/Repo-Retail%20Analysis-orange?style=for-the-badge&logo=anaconda&logoColor=white)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
 
 - 👩‍💼 [![HR Analytics Dashboard](https://img.shields.io/badge/Repo-HR%20Analytics%20Dashboard-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/pranav444444/TASK-6A-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 
