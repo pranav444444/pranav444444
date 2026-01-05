@@ -55,13 +55,18 @@
 
 - 📊 [![SK Mobile Sales Dashboard](https://img.shields.io/badge/Repo-SK%20Mobile%20Sales%20Dashboard-blue?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/pranav444444/TASK-6B-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 
-- 🏦 [![Bank Loan Performance Analysis And Risk Assessment](https://img.shields.io/badge/Repo-Bank%20Loan%20Analysis%20(SQL+Power%20BI)-purple?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
+- 🏦 [![Bank Loan Performance Analysis and Risk Assessment](https://img.shields.io/badge/Repo-Bank%20Loan%20Performance%20Analysis%20%26%20Risk%20Assessment-purple?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pranav444444/Bank_Loan_Analysis_SQL_PowerBI_Project)  
 
-- 🛍️ [![Customer Preference And Trend Analytics For Retail Sector (Sem 7 Project)](https://img.shields.io/badge/Repo-Retail%20Analysis-orange?style=for-the-badge&logo=anaconda&logoColor=white)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
+- 🛍️ [![Customer Preference and Trend Analytics for Retail Sector](https://img.shields.io/badge/Repo-Customer%20Preference%20%26%20Trend%20Analytics%20(Retail)-orange?style=for-the-badge&logo=anaconda&logoColor=white)](https://github.com/pranav444444/MinorProject_Sem7_RetailAnalysis)  
+
+- 📡 [![Telecom Customer Churn Analytics and Prediction System](https://img.shields.io/badge/Repo-Telecom%20Customer%20Churn%20Analytics%20%26%20Prediction-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/pranav444444/Telecom-Customer-Churn-Analytics-Prediction-System)
+
+- 📣 [![Social Media Campaign Analytics Dashboard](https://img.shields.io/badge/Repo-Social%20Media%20Campaign%20Analytics%20Dashboard-pink?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/pranav444444/FUTURE_DS_02)
 
 - 👩‍💼 [![HR Analytics Dashboard](https://img.shields.io/badge/Repo-HR%20Analytics%20Dashboard-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/pranav444444/TASK-6A-DATA-ANALYTICS-TECHNOHACKS-INTERNSHIP)  
 
 </p>
+
 
 ---
 
