@@ -65,17 +65,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pranav444444&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pranav444444&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=pranav444444&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranav444444&theme=radical)
-
+## 📊 GitHub & Project Highlights
+- 📈 Hands-on experience with real-world datasets
+- 🧠 Strong focus on SQL querying, data cleaning, and EDA
+- 📊 Designed interactive Power BI dashboards for business insights
+- 🚀 Projects include Retail Analytics, Bank Loan Analysis, HR Analytics
 
 ---
 
