@@ -65,21 +65,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav444444&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav444444&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pranav444444&show_icons=true&theme=radical)
 
-### 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav444444&theme=radical&cache_seconds=1800"/>
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pranav444444&layout=compact&theme=radical)
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav444444&theme=radical&margin-w=15"/>
-</p>
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranav444444&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranav444444&theme=radical)
+
 
 ---
 
