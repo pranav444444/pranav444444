@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Patel</h1>
-<h3 align="center">🚀 A Passionate Data Analyst from India 🚀</h3>
+<h3 align="center">🚀 A Passionate Data Scientist from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Lifelong+Learner+📚" alt="Typing Animation"/>
 </p>
 
 <p align="center"> 
