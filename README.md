@@ -358,3 +358,23 @@ Relevant coursework:
 ☁️ AWS / Cloud Deployment
       ↓
 🚀 Production ML Applications
+
+
+<p align="center">
+
+🚀 Building with data. Learning continuously. Deploying ideas.
+
+If you're working on something interesting in Data, ML or AI — let's connect.
+
+</p>
+
+<!-- ========================================================= -->
+<!--                    ANIMATED FOOTER                        -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:064e3b,100:0f172a&height=120&section=footer&animation=fadeIn"
+    width="100%"
+  />
+</p>
