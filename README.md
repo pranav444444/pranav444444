@@ -86,7 +86,7 @@ I enjoy working across the complete data-to-deployment workflow:
 ### Analytics & Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=f2c811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logoColor=f2c811" alt="Power BI" />
   <img src="https://img.shields.io/badge/Power%20Query-0f172a?style=for-the-badge&logo=microsoft&logoColor=22c55e" alt="Power Query" />
   <img src="https://img.shields.io/badge/DAX-0f172a?style=for-the-badge&logo=microsoft&logoColor=38bdf8" alt="DAX" />
   <img src="https://img.shields.io/badge/EDA-0f172a?style=for-the-badge&logo=python&logoColor=06b6d4" alt="EDA" />
