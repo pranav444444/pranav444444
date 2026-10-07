@@ -358,6 +358,7 @@ Relevant coursework:
 ☁️ AWS / Cloud Deployment
       ↓
 🚀 Production ML Applications
+```
 
 
 <p align="center">
